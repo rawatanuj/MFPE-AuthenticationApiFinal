@@ -349,3 +349,9 @@ System.Security.Cryptography.CryptographicException: The payload was invalid.
    at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.DangerousUnprotect(Byte[] protectedData, Boolean ignoreRevocationErrors, Boolean& requiresMigration, Boolean& wasRevoked)
    at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
    at Microsoft.AspNetCore.Session.CookieProtection.Unprotect(IDataProtector protector, String protectedText, ILogger logger)
+INFO  05:21:39 Application started. Press Ctrl+C to shut down.
+INFO  05:21:39 Application started. Press Ctrl+C to shut down.
+INFO  05:21:39 Hosting environment: Development
+INFO  05:21:39 Hosting environment: Development
+INFO  05:21:39 Content root path: C:\Users\Anuj-PC\Desktop\Autenticate Final\MFPE_CustomerApi
+INFO  05:21:39 Content root path: C:\Users\Anuj-PC\Desktop\Autenticate Final\MFPE_CustomerApi
